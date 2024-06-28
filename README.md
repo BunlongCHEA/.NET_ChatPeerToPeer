@@ -42,8 +42,10 @@ On 2nd Client App,
 
 ## Step 5: Offline Peer Either By Changing Username OR Close & Open A New Client App
 Note that on Client side, 
-- You can change your Username, and re-click connect
-  Note: The First username is "Hello". However, after changing Username to "Home", the Name "Hello" is remove from UI and add a new Name "Home" instead
+- You can change your Username, and re-click connect.
+
+  **Note:** The First username is "Hello". However, after changing Username to "Home", the Name "Hello" is remove from UI and add a new Name "Home" instead
+
 - The UI - Online Status (Refresh Every 10 seconds) - will refresh every 10 second, while the offline peer will be remove
 
 ![6.png : Offline by changing username or close and open new Client App](https://github.com/BunlongCHEA/.NET_ChatPeerToPeer/blob/master/Img_README/6.png)
