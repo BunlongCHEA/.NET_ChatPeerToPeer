@@ -27,10 +27,24 @@ Once you connect to the Server side:
 ![3.png : Display log and UI online on both server and client](https://github.com/BunlongCHEA/.NET_ChatPeerToPeer/blob/master/Img_README/3.png)
 
 ## Step 4: Client side - Start Interaction With Peer To Peer
-On Client side:
+On 1st Client App:
 - Click on any peer on UI - Online Status (Refresh Every 10 seconds)
 - You can start write any Message to that peer/friend
-5. Your friend will received the message with display name to show who sended; once received, he must select that friend on - UI Status Online - 
-and message back
-6. Note that on Client side, you can change your name, re-click connect, and the - UI Status Online - will refresh every 10 second, while the offline
-peer will be remove
+
+![4.png : Select peer who online and send the Message to peer](https://github.com/BunlongCHEA/.NET_ChatPeerToPeer/blob/master/Img_README/4.png)
+  
+On 2nd Client App,
+- Your friend/peer will received the message with display name to show who sended
+- Once received, he **Must** select that friend on UI - Online Status (Refresh Every 10 seconds)
+- Now he can response the message back
+
+![5.png : Select peer who online and response the Message back](https://github.com/BunlongCHEA/.NET_ChatPeerToPeer/blob/master/Img_README/5.png)
+
+## Step 5: Offline Peer Either By Changing Username OR Close & Open A New Client App
+Note that on Client side, 
+- You can change your Username, and re-click connect,
+- The UI - Online Status (Refresh Every 10 seconds) - will refresh every 10 second, while the offline peer will be remove
+
+![6.png : Offline by changing username or close and open new Client App](https://github.com/BunlongCHEA/.NET_ChatPeerToPeer/blob/master/Img_README/6.png)
+
+This is the end of the Mini-Project, Thank you for reading...
