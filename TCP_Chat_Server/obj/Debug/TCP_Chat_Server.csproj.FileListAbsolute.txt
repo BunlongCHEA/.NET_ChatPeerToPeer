@@ -1,0 +1,10 @@
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.exe.config
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.exe
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.pdb
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.csproj.AssemblyReference.cache
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.Form1.resources
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.Properties.Resources.resources
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.csproj.GenerateResource.cache
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.csproj.CoreCompileInputs.cache
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.exe
+D:\ITStep\ITStep_Project\Network_Application_Exam2\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.pdb

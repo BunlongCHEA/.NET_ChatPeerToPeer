@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D7B0CE-8E71-4D19-88F4-47966D252668}|TCP_Chat_Client\\TCP_Chat_Client.csproj|D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\tcp_chat_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D7B0CE-8E71-4D19-88F4-47966D252668}|TCP_Chat_Client\\TCP_Chat_Client.csproj|solutionrelative:tcp_chat_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D7B0CE-8E71-4D19-88F4-47966D252668}|TCP_Chat_Client\\TCP_Chat_Client.csproj|D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\tcp_chat_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D7B0CE-8E71-4D19-88F4-47966D252668}|TCP_Chat_Client\\TCP_Chat_Client.csproj|solutionrelative:tcp_chat_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0338610-A14C-4F3F-93AA-509270C8C74D}|TCP_Chat_Server\\TCP_Chat_Server.csproj|D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\tcp_chat_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0338610-A14C-4F3F-93AA-509270C8C74D}|TCP_Chat_Server\\TCP_Chat_Server.csproj|solutionrelative:tcp_chat_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0338610-A14C-4F3F-93AA-509270C8C74D}|TCP_Chat_Server\\TCP_Chat_Server.csproj|d:\\itstep\\itstep_project\\network_application_exam2\\tcp_chat_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0338610-A14C-4F3F-93AA-509270C8C74D}|TCP_Chat_Server\\TCP_Chat_Server.csproj|solutionrelative:tcp_chat_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Server\\Form1.cs",
+              "ToolTip": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Server\\Form1.cs",
+              "RelativeToolTip": "TCP_Chat_Server\\Form1.cs",
+              "ViewState": "AQIAAN8AAAAAmZmZmZkZwOoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:23:16.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Client\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Client\\Form1.cs",
+              "ToolTip": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Client\\Form1.cs",
+              "RelativeToolTip": "TCP_Chat_Client\\Form1.cs",
+              "ViewState": "AQIAAKYAAAAAaGZmZmYswLMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:48:08.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Client\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Client\\Form1.cs",
+              "ToolTip": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Client\\Form1.cs [Design]",
+              "RelativeToolTip": "TCP_Chat_Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:33:15.421Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Server\\Form1.cs",
+              "ToolTip": "D:\\ITStep\\ITStep_Project\\Network_Application_Exam2\\TCP_Chat_Server\\Form1.cs [Design]",
+              "RelativeToolTip": "TCP_Chat_Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:23:00.265Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
